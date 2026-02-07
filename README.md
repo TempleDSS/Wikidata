@@ -19,5 +19,8 @@ This is archived for institutional purposes. For the most up-to-date version wit
 
 ## Related Projects
 
-- artvizphilly/wikidata - Primary repository with extended analysis
-- LEADING Project - Interactive visualization at ../LEADING/
+- **artvizphilly.github.io** - Project website and documentation hosted at https://artvizphilly.github.io/
+- **artvizphilly/wikidata** - Primary repository with extended analysis
+- **artvizphilly/leading_fellows2022** - Interactive R/Shiny visualization of housing and mural data
+
+The LEADING fellowship project (Mapping Black Philly Art) is primarily housed in the artvizphilly organization.
